@@ -1,0 +1,8 @@
+{
+  "name": "Mission Echo — Abandoned but Not Forgotten",
+  "description": "NASA Space Apps 2026 interactive 3D space museum & planetary observatory exploring humanity's space hardware left behind on the Moon, Mars, Earth orbit, and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
